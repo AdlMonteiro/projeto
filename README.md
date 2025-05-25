@@ -1,4 +1,4 @@
-<h1 align="center"> NLW #10 Copa </h1>
+<h1 align="center"> DevLinks </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src=".github/cover.jpg" width="50%">
+  <img alt="Projeto DevLinks" src=".github/Cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
